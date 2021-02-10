@@ -1,13 +1,15 @@
 body {
-  margin: 0;
   text-align: center;
+  margin: 0;
   background-color: #ffc1b6;
   font-family: 'Fraunces', serif;
+  font-size: 100%
 
 }
 
 h1 {
-  margin-top: 0;
+  font-size: 4.375rem;
+  margin-top: 50px auto 0 auto;
   padding-top: 100px;
   font-family: 'Sacramento', cursive;
   color: #FF0AF6;
@@ -16,13 +18,31 @@ h1 {
 
 h2 {
 font-family: 'Hachi Maru Pop', cursive;
+font-size: 1.5rem;
+color: #FF0AF6;
+}
+
+h4 {
+  font-family: 'Lobster', cursive;
+  font-size: 1.30rem;
+  font-weight: bold;
+  color: #e97878;
+  line-height: 0.5;
+
+}
+
+p {
+  font-size: 1.15;
+  font-weight: normal;
 }
 
 a {
 color: fushia;
 }
 
+
 .top-Container {
+
   background-color: #ffc1b6;
   position: relative;
   padding-top: 50px;
@@ -55,4 +75,29 @@ color: fushia;
   position: absolute;
   left: 70px;
   margin-bottom: 130px;
+}
+
+
+.hair-dynazty {
+
+float: left;
+}
+
+.photo {
+margin-left: 250px;
+  float: left;
+}
+
+.coding {
+  margin-left: 350px; 
+  float: left;
+}
+
+.Pole {
+  float: left;
+}
+
+.skill-row {
+  text-align: left;
+  margin: 50px auto 50px auto;
 }
