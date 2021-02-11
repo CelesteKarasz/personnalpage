@@ -159,3 +159,8 @@ color: #e97878
   bottom: 100px;
   top: 100px; 
 }
+
+.intro {
+  width: 30%;
+  margin: auto; 
+}
