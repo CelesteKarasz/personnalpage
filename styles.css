@@ -38,10 +38,13 @@ p {
 }
 
 a {
-color: #822659;
- margin: 10px 20px; 
+color: #822659; 
   text-decoration: none; 
 } 
+
+a:hover {
+  color: #b34180; 
+}
 
 
 .top-Container {
