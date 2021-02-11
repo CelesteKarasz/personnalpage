@@ -142,3 +142,10 @@ margin-left: 350px;
    text-decoration: none;
 } 
 
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #ef4f4f;
+  border-width: 5px;
+  width: 10%;
+}
