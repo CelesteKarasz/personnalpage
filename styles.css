@@ -73,14 +73,14 @@ a:hover {
 
 .kirby-coeur {
   position: absolute;
-  right: 40px;
-  top: 70px;
-}
+  right: 100px;
+  top: 200px;
+} 
 
-.kirby {
+.sakura {
   position: absolute;
   left: 70px;
-  margin: -50px 0 50px 0
+  margin: -10px 0 50px 30px;
 }
 
 
